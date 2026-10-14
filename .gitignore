@@ -224,3 +224,5 @@ data/processed/
 models/*
 !models/model.onnx
 .DS_Store
+.virtual_documents/
+anaconda_projects/
